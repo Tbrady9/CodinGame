@@ -2,7 +2,7 @@
 
 ## Overview ##
 
-This repository will hold all of my solutions to coding puzzles posted on codingame.com. Descriptions of each puzzle will be listed in this readme file in the order in which I completed them.
+During my pursuit of my bachelors degree for computer science, I had a class in which the professor recommended a website (codingame.com) to all of his students. This website holds many different coding challenges and puzzles for many coding languages and many skill levels. This repository will hold all of my solutions to the puzzles that I have done so far. This readme file will hold the descriptions of each challenge in the order in which I completed them starting with the earliest completed in my second year of school.
 
 ## The Descent ##
 
