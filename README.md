@@ -6,6 +6,8 @@ This repository will hold all of my solutions to coding puzzles posted on coding
 
 ## Temperatures ##
 
+Completed: Nov 11, 2022
+
 ### The Goal ###
 In this exercise, you have to analyze records of temperature to find the closest to zero.
 ### Rules ###
