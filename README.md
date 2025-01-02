@@ -20,6 +20,25 @@ Within an infinite loop, read the heights of the mountains from the standard inp
 ### Output ###
 A single line with one integer for the index of which mountain to shoot.
 
+## Power of Thor ##
+
+Completed: Oct 17, 2022
+
+### The Goal ###
+Your program must allow Thor to reach the light of power.
+### Rules ###
+Thor moves on a map which is 40 wide by 18 high. Note that the coordinates (X and Y) start at the top left! This means the most top left cell has the coordinates "X=0,Y=0" and the most bottom right one has the coordinates "X=39,Y=17".
+Once the program starts you are given:
+the variable lightX: the X position of the light of power that Thor must reach.
+the variable lightY: the Y position of the light of power that Thor must reach.
+the variable initialTX: the starting X position of Thor.
+the variable initialTY: the starting Y position of Thor.
+At the end of the game turn, you must output the direction in which you want Thor to go among: 
+### Input ###
+The program must first read the initialization data from the standard input, then, in an infinite loop, provides on the standard output the instructions to move Thor.
+### Output ###
+A single line providing the move to be made: N NE E SE S SW W or NW
+
 ## Temperatures ##
 
 Completed: Nov 11, 2022
